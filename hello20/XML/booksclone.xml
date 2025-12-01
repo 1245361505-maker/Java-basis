@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+    <book id="b01">
+        <name>阿泰勒的角落</name>
+        <price>50</price>
+        <author>李娟</author>
+    </book>
+    <book id="b02">
+        <name>平凡的世界</name>
+        <price>60</price>
+        <author>路遥</author>
+    </book>
+</books>
